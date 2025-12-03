@@ -132,8 +132,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For questions or feedback, please reach out to [your-email@example.com]
-
+LinkedIn: www.linkedin.com/in/divy-vaghela-08321629a 
+Email : divyvaghela63@gmail.com
 ---
 
 **Note**: This is
